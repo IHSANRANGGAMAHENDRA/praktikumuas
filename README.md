@@ -5,7 +5,7 @@
 | Variable | Isi |
 | -------- | --- |
 | **Nama** | IHSAN RANGGA MAHENDRA |
-| **NIM** | 3123104 |
+| **NIM** | 312310494 |
 | **Kelas** | TI.23.A5 |
 | **Mata Kuliah** | Basis data |
 
